@@ -1,0 +1,25 @@
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.csprojAssemblyReference.cache
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.ActionForm.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.HomeForm.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.LoginForm.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.Properties.Resources.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.SignupForm.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.csproj.GenerateResource.cache
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.csproj.CoreCompileInputs.cache
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.exe
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.pdb
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.exe.config
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.exe
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.pdb
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.exe.config
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.exe
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.pdb
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.csprojAssemblyReference.cache
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.ActionForm.resources
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.HomeForm.resources
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.LoginForm.resources
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.Properties.Resources.resources
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.SignupForm.resources
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\diary_manage.csproj.GenerateResource.cache
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.exe
+C:\Users\alif0\Downloads\Compressed\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.pdb

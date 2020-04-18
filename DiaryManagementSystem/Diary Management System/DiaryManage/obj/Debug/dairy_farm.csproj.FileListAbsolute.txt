@@ -1,0 +1,25 @@
+D:\dairy_farm\dairy_farm\bin\Debug\dairy_farm.exe.config
+D:\dairy_farm\dairy_farm\bin\Debug\dairy_farm.exe
+D:\dairy_farm\dairy_farm\bin\Debug\dairy_farm.pdb
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.csprojResolveAssemblyReference.cache
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.ActionForm.resources
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.HomeForm.resources
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.LoginForm.resources
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.Properties.Resources.resources
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.SignupForm.resources
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.csproj.GenerateResource.Cache
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.exe
+D:\dairy_farm\dairy_farm\obj\Debug\dairy_farm.pdb
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.exe.config
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.exe
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\bin\Debug\dairy_farm.pdb
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.csprojAssemblyReference.cache
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.ActionForm.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.HomeForm.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.LoginForm.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.Properties.Resources.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.SignupForm.resources
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.csproj.GenerateResource.cache
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.csproj.CoreCompileInputs.cache
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.exe
+F:\study\8 th semester\C#\dairy_farm\dairy_farm\dairy_farm\obj\Debug\dairy_farm.pdb

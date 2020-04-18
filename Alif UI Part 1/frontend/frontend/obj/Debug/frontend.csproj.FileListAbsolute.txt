@@ -1,0 +1,40 @@
+E:\C# Project\frontend\frontend\bin\Debug\frontend.exe.config
+E:\C# Project\frontend\frontend\bin\Debug\frontend.exe
+E:\C# Project\frontend\frontend\bin\Debug\frontend.pdb
+E:\C# Project\frontend\frontend\obj\Debug\frontend.csprojAssemblyReference.cache
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Donar_Amont.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Donar_profile.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Donation_Action.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Home.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Login.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Receiver_login.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Receiver_Profile.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Receiver_Request.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Receiver_Registration.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Receivers_List.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Donar_Registration.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Welcome.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.Properties.Resources.resources
+E:\C# Project\frontend\frontend\obj\Debug\frontend.csproj.GenerateResource.cache
+E:\C# Project\frontend\frontend\obj\Debug\frontend.exe
+E:\C# Project\frontend\frontend\obj\Debug\frontend.pdb
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\bin\Debug\frontend.exe.config
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\bin\Debug\frontend.exe
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\bin\Debug\frontend.pdb
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.csprojAssemblyReference.cache
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Donar_Amont.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Donar_profile.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Donation_Action.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Home.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Login.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Receiver_login.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Receiver_Profile.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Receiver_Request.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Receiver_Registration.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Receivers_List.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Donar_Registration.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Welcome.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.Properties.Resources.resources
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.csproj.GenerateResource.cache
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.exe
+D:\STUDY FILES\C# Project\AFTAHI\frontend\frontend\obj\Debug\frontend.pdb
